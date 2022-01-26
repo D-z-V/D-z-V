@@ -1,4 +1,4 @@
-<img align=”center” alt=”banner” src=”https://www.canva.com/design/DAE2ji32YMY/SIAD5U11nKPfWV3bpi295Q/view?utm_content=DAE2ji32YMY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink”>
+<img align=”center” alt=”banner” src="https://www.canva.com/design/DAE2ji32YMY/SIAD5U11nKPfWV3bpi295Q/view?utm_content=DAE2ji32YMY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <h1 align="center">Hi 👋, I'm Dev Bhandari</h1>
 <h3 align="center">A tech enthusiast.</h3>
 
