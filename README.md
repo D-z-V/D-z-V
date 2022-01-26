@@ -1,4 +1,4 @@
-<img align=”center” alt=”banner” src=”banner.png”>
+<img align=”center” alt=”banner” src=”https://ibb.co/p3kD00V”>
 <h1 align="center">Hi 👋, I'm Dev Bhandari</h1>
 <h3 align="center">A tech enthusiast.</h3>
 
