@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Neural Networks, PyTorch and React**
-
-- 👨‍💻 All of my projects are available at [https://d-z-v.github.io/Portfolio-Website/](https://d-z-v.github.io/Portfolio-Website/)
-
 - 📫 How to reach me **dev.bhandari@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
