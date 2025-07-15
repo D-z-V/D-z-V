@@ -1,91 +1,305 @@
-<!-- Banner placeholder -->
-<img src="https://dummy-image.com/1200x200/eee/333&text=Dev+Bhandari" alt="Banner placeholder" width="100%">
+<!-- Animated Wave Header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Growing%20and%20Building%20Cool%20SaaS%20Products&descAlignY=60&descAlign=50" />
+</div>
 
-# Hey, I’m Dev Bhandari 👋
+<!-- Typing Animation with Premium Font -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=Full+Stack+Engineer+%7C+Real-Time+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
-🔭 I’m currently working on **cool, scalable real‑time systems** at [MetaForms](https://metaforms.ai)
+<!-- Elegant Stats Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 25px;">
+        <h3 style="margin: 0;">500+</h3>
+        <p style="margin: 0; color: #00F7FF;">Commits</p>
+      </td>
+      <td align="center" style="padding: 0 25px;">
+        <h3 style="margin: 0;">1+</h3>
+        <p style="margin: 0; color: #00F7FF;">Years Experience</p>
+      </td>
+      <td align="center" style="padding: 0 25px;">
+        <h3 style="margin: 0;">15+</h3>
+        <p style="margin: 0; color: #00F7FF;">Technologies</p>
+      </td>
+      <td align="center" style="padding: 0 25px;">
+        <h3 style="margin: 0;">∞</h3>
+        <p style="margin: 0; color: #00F7FF;">Learning</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<!-- Social Links with Hover Effects -->
+<div align="center">
+  <br>
+  <a href="https://linkedin.com/in/devbhandari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/D-z-V"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://devbhandari.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1mLcnRBodgZOeDzLrcRs7yQ0NrwVzCQgs/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:dev@devbhandari.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-## About Me
+<br>
 
-I’m a Software Engineer passionate about real‑time microservices, low‑latency WebSockets, and event‑driven architectures. I love turning data into actionable insights and building systems that scale.
+<!-- Animated About Section -->
+<div align="center" style="margin-top: 20px;">
+  <div style="max-width: 800px; height: 200px; overflow: hidden; margin: 0 auto; border-radius: 10px;">
+    <!-- display the bottom portion without squishing -->
+    <img
+      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+      style="width: 100%; height: 100%; object-fit: cover; object-position: bottom center;"
+      alt="Banner animation"
+    />
+  </div>
+</div>
 
----
 
-## 🚀 Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  About Me 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+</h2>
 
-## ☁️ Backend & Messaging
+<div align="center">
+  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
+  
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=D-z-V&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+  
+  🚀 **Software Engineer** at [**MetaForms**](https://metaforms.ai) building **real-time, scalable systems**
+  
+  🔥 Passionate about **low-latency WebSockets**, **event-driven architectures**, and **distributed systems**
+  
+  💡 Worked with **gRPC**, **Protocol Buffers**, and **microservices communication**
+  
+  🛠️ Creating **MCP servers** and integrating **AI-powered solutions**
+  
+  📊 Turning **data into insights** with **real-time analytics**
+</div>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-339933?style=for-the-badge&logo=websockets&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+<br clear="both">
 
----
+<!-- Tech Arsenal Section -->
+<h2 align="center">
+  💫 Tech Arsenal
+</h2>
 
-## 🗄️ Databases
+<div align="center">
+  
+### Core Languages & Frameworks
+  
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C/C++
+    </td>
+  </tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-FF0000?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+### Frontend Excellence
 
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
+      <br>Material UI
+    </td>
+  </tr>
+</table>
 
-## 💻 Languages & Algorithms
+### Backend Powerhouse
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%230059C7.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+</table>
 
----
-
-## 🤖 Data Science & UI
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Material‑UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
----
-
-## 🔗 More about me
-
-- Portfolio: [devbhandari.dev](https://devbhandari.dev) _(WIP)_
-- Resume: [Download PDF](https://drive.google.com/file/d/1mLcnRBodgZOeDzLrcRs7yQ0NrwVzCQgs/view?usp=drive_link)
-
----
-
-## 🐍 My GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./outputs/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./outputs/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="./outputs/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
----
-
-## 📈 GitHub Stats
+### Real-Time & Communication
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devbhandari&show_icons=true&hide_border=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devbhandari&hide_border=true&theme=jolly" />
+  <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat&logo=google&logoColor=white&labelColor=0d1117" height="25" alt="gRPC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat&logo=google&logoColor=white&labelColor=0d1117" height="25" alt="Protocol Buffers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white&labelColor=0d1117" height="25" alt="WebSockets" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white&labelColor=0d1117" height="25" alt="Kafka" />
 </p>
+
+### Data & Infrastructure
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  </tr>
+</table>
+
+### AI & Innovation
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbhandari&layout=compact&theme=jolly&hide=jupyter%20notebook" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=0d1117" height="25" alt="TensorFlow" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=0d1117" height="25" alt="PyTorch" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCP_Server-000000?style=flat&logo=anthropic&logoColor=white&labelColor=0d1117" height="25" alt="MCP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=flat&logo=openai&logoColor=white&labelColor=0d1117" height="25" alt="AI Integration" />
 </p>
+
+</div>
+
+<br>
+
+<!-- GitHub Stats with Premium Theme -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+  GitHub Analytics
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+</h2>
+
+<!-- Stats Cards in Grid -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=D-z-V&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Dev's github stats" /></td>
+      <td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-z-V&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-z-V&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="streak stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-z-V&bg_color=0d1117&color=00F7FF&line=00F7FF&point=fff&area=true&hide_border=true" width="95%" alt="activity graph">
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px">
+  Contribution Snake
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px">
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./outputs/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./outputs/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="./outputs/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- Trophy Section -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25px">
+  GitHub Trophies
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25px">
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=D-z-V&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="trophies"/>
+</div>
+
+<!-- Footer with Wave -->
+<div align="center">
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+</div>
+
+<!-- Hidden Metrics -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
