@@ -12,26 +12,15 @@
 
 <!-- Elegant Stats Section -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 0 25px;">
-        <h3 style="margin: 0;">500+</h3>
-        <p style="margin: 0; color: #00F7FF;">Commits</p>
-      </td>
-      <td align="center" style="padding: 0 25px;">
-        <h3 style="margin: 0;">1+</h3>
-        <p style="margin: 0; color: #00F7FF;">Years Experience</p>
-      </td>
-      <td align="center" style="padding: 0 25px;">
-        <h3 style="margin: 0;">15+</h3>
-        <p style="margin: 0; color: #00F7FF;">Technologies</p>
-      </td>
-      <td align="center" style="padding: 0 25px;">
-        <h3 style="margin: 0;">∞</h3>
-        <p style="margin: 0; color: #00F7FF;">Learning</p>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://img.shields.io/badge/500+-Commits-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Commits" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/1+-Years%20Experience-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Experience" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/15+-Technologies-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Technologies" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/∞-Learning-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Learning" />
+  </p>
 </div>
 
 <!-- Social Links with Hover Effects -->
@@ -48,14 +37,7 @@
 
 <!-- Animated About Section -->
 <div align="center" style="margin-top: 20px;">
-  <div style="max-width: 800px; height: 200px; overflow: hidden; margin: 0 auto; border-radius: 10px;">
-    <!-- display the bottom portion without squishing -->
-    <img
-      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-      style="width: 100%; height: 100%; object-fit: cover; object-position: bottom center;"
-      alt="Banner animation"
-    />
-  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"" width="100%" style="max-width: 800px; height: 300px; object-fit: cover; object-position: center bottom; border-radius: 10px;" alt="Coding animation">
 </div>
 
 
@@ -68,21 +50,25 @@
 </h2>
 
 <div align="center">
-  <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
+  <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
   
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=D-z-V&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
-  
-  🚀 **Software Engineer** at [**MetaForms**](https://metaforms.ai) building **real-time, scalable systems**
-  
-  🔥 Passionate about **low-latency WebSockets**, **event-driven architectures**, and **distributed systems**
-  
-  💡 Worked with **gRPC**, **Protocol Buffers**, and **microservices communication**
-  
-  🛠️ Creating **MCP servers** and integrating **AI-powered solutions**
-  
-  📊 Turning **data into insights** with **real-time analytics**
+<br>
+
+<div align="left">
+
+<img src="https://komarev.com/ghpvc/?username=D-z-V&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+🚀 **Software Engineer** at [**MetaForms**](https://metaforms.ai) building **real-time, scalable systems**
+
+🔥 Passionate about **low-latency WebSockets**, **event-driven architectures**, and **distributed systems**
+
+💡 Worked with **gRPC**, **Protocol Buffers**, and **microservices communication**
+
+🛠️ Creating **MCP servers** and integrating **AI-powered solutions**
+
+📊 Turning **data into insights** with **real-time analytics**
+
+</div>
 </div>
 
 <br clear="both">
