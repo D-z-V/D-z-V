@@ -1,6 +1,6 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Growing%20and%20Building%20Cool%20SaaS%20Products&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,17,20,24&height=280&section=header&text=Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Growing%20and%20Building%20Cool%20SaaS%20Products&descAlignY=60&descAlign=50" />
 </div>
 
 <!-- Typing Animation with Premium Font -->
@@ -13,13 +13,13 @@
 <!-- Elegant Stats Section -->
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/500+-Commits-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Commits" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/1+-Years%20Experience-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Experience" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/15+-Technologies-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Technologies" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/∞-Learning-00F7FF?style=flat&labelColor=0d1117" height="25" alt="Learning" />
+    <img src="https://img.shields.io/badge/500+-Commits-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Commits" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/1+-Years%20Experience-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Experience" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/15+-Technologies-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Technologies" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/∞-Learning-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Learning" />
   </p>
 </div>
 
@@ -36,8 +36,10 @@
 <br>
 
 <!-- Animated About Section -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"" width="100%" style="max-width: 800px; height: 300px; object-fit: cover; object-position: center bottom; border-radius: 10px;" alt="Coding animation">
+<div align="center">
+  <br>
+  <img src="./assets/mario-the-coder.gif" width="100%" alt="Coding animation">
+  <br>
 </div>
 
 
@@ -75,95 +77,58 @@
 
 <!-- Tech Arsenal Section -->
 <h2 align="center">
-  💫 Tech Arsenal
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px">
+  Tech Arsenal
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px">
 </h2>
 
 <div align="center">
   
 ### Core Languages & Frameworks
-  
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C/C++
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="64" height="64" />
+</div>
 
 ### Frontend Excellence
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
-      <br>Material UI
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" width="64" height="64" alt="Vue" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" width="64" height="64" alt="Angular" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React Native" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" width="64" height="64" alt="MUI" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" width="64" height="64" alt="jQuery" />
+</div>
 
 ### Backend Powerhouse
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" width="64" height="64" alt="Flask" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="64" height="64" alt="Express" />
+</div>
 
 ### Real-Time & Communication
 
@@ -179,46 +144,39 @@
 
 ### Data & Infrastructure
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="64" height="64" alt="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+</div>
 
 ### AI & Innovation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=0d1117" height="25" alt="TensorFlow" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=0d1117" height="25" alt="PyTorch" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MCP_Server-000000?style=flat&logo=anthropic&logoColor=white&labelColor=0d1117" height="25" alt="MCP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=flat&logo=openai&logoColor=white&labelColor=0d1117" height="25" alt="AI Integration" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="64" height="64" alt="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="64" height="64" alt="PyTorch" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
 
 </div>
 
@@ -246,12 +204,6 @@
   </table>
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-z-V&bg_color=0d1117&color=00F7FF&line=00F7FF&point=fff&area=true&hide_border=true" width="95%" alt="activity graph">
-</div>
-
-<br>
 
 <!-- Snake Animation -->
 <h2 align="center">
@@ -268,6 +220,14 @@
   </picture>
 </div>
 
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-z-V&bg_color=0d1117&color=00F7FF&line=00F7FF&point=fff&area=true&hide_border=true" width="95%" alt="activity graph">
+</div>
+
+<br>
+
+
 <!-- Trophy Section -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25px">
@@ -282,7 +242,7 @@
 <!-- Footer with Wave -->
 <div align="center">
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,17,20,24&height=100&section=footer&animation=twinkling" />
 </div>
 
 <!-- Hidden Metrics -->
