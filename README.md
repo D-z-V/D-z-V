@@ -26,11 +26,11 @@
 <!-- Social Links with Hover Effects -->
 <div align="center">
   <br>
-  <a href="https://linkedin.com/in/devbhandari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/D-z-V"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://devbhandari.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1mLcnRBodgZOeDzLrcRs7yQ0NrwVzCQgs/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:dev@devbhandari.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/dev-bhandari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/D-z-V" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://portfolio-sooty-sigma-29.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-(WIP)-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1mLcnRBodgZOeDzLrcRs7yQ0NrwVzCQgs/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:dev.bhandari@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
@@ -60,7 +60,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=D-z-V&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-🚀 **Software Engineer** at [**MetaForms**](https://metaforms.ai) building **real-time, scalable systems**
+🚀 **Software Engineer** at <a href="https://metaforms.ai" target="_blank"><strong>metaforms</strong></a> building **real-time, scalable systems**
 
 🔥 Passionate about **low-latency WebSockets**, **event-driven architectures**, and **distributed systems**
 
