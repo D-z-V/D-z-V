@@ -77,9 +77,9 @@
 
 <!-- Tech Arsenal Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   Tech Arsenal
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
 <div align="center">
