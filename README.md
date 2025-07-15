@@ -72,9 +72,9 @@ I’m a Software Engineer passionate about real‑time microservices, low‑late
 ## 🐍 My GitHub Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/main/outputs/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/main/outputs/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.event.repository.name }}/main/outputs/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./outputs/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./outputs/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="./outputs/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
