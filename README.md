@@ -85,7 +85,7 @@
 
 <div align="center">
   
-### Core Languages & Frameworks
+### Core Languages
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="64" height="64" />
@@ -99,7 +99,7 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="64" height="64" />
 </div>
 
-### Frontend Excellence
+### Frontend Libraries & Frameworks
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
@@ -129,18 +129,22 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" width="64" height="64" alt="Express" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Django" width="64" height="64" />
 </div>
 
 ### Real-Time & Communication
 
 <p align="center">
-  <img src="https://img.shields.io/badge/gRPC-00ADD8?style=flat&logo=google&logoColor=white&labelColor=0d1117" height="25" alt="gRPC" />
+  <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="gRPC" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat&logo=google&logoColor=white&labelColor=0d1117" height="25" alt="Protocol Buffers" />
+  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Protocol Buffers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white&labelColor=0d1117" height="25" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&&logo=socket.io&logoColor=white&labelColor=0d1117" alt="WebSockets" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white&labelColor=0d1117" height="25" alt="Kafka" />
+    <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
+    &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
 ### Data & Infrastructure
@@ -154,16 +158,32 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </div>
+
+### DevOps & Cloud
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"  alt="AWS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"  alt="GCP" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white"  alt="Azure" />
+</div>
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="64" height="64" />
+</div>
+
 
 ### AI & Innovation
 
