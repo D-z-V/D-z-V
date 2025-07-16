@@ -6,7 +6,7 @@
 <!-- Typing Animation with Premium Font -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=Full+Stack+Engineer+%7C+Real-Time+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Full+Stack+Engineer+%7C+Real-Time+Scalable+Systems" alt="Typing SVG" />
   </a>
 </div>
 
