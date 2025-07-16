@@ -108,7 +108,7 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=angular" width="64" height="64" alt="Angular" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="64" height="64" alt="React Native" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="64" height="64" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=materialui" width="64" height="64" alt="MUI" />
   &nbsp;&nbsp;
