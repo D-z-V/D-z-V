@@ -102,11 +102,11 @@
 ### Frontend Libraries & Frameworks
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vue" width="64" height="64" alt="Vue" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=angular" width="64" height="64" alt="Angular" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="64" height="64" />
   &nbsp;&nbsp;
