@@ -1,15 +1,3 @@
-<!-- Animated Wave Header -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,17,20,24&height=280&section=header&text=Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Growing%20and%20Building%20Cool%20SaaS%20Products&descAlignY=60&descAlign=50&animation=fadeIn" />
-</div>
-
-<!-- Typing Animation with Premium Font -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Full+Stack+Engineer+%7C+Real-Time+Scalable+Systems" alt="Typing SVG" />
-  </a>
-</div>
-
 <!-- Elegant Stats Section -->
 <div align="center">
   <p align="center">
