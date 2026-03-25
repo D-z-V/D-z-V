@@ -237,17 +237,6 @@
 <br>
 
 
-<!-- Trophy Section -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25px">
-  GitHub Trophies
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25px">
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D-z-V&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="trophies"/>
-</div>
-
 <!-- Footer with Wave -->
 <div align="center">
   <br><br>
