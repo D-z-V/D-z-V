@@ -40,8 +40,6 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center">
 </h2>
 
-<div align="center">
-  <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding">
   
 <br>
 
@@ -51,7 +49,7 @@
 
 🚀 **Software Engineer** at <a href="https://metaforms.ai" target="_blank"><strong>metaforms</strong></a> building **real-time, scalable systems**
 
-🔥 Passionate about **low-latency WebSockets**, **event-driven architectures**, and **distributed systems**
+🔥 Passionate about **low-latency**, **event-driven architectures**, and **distributed systems**
 
 💡 Worked with **gRPC**, **Protocol Buffers**, and **microservices communication**
 
@@ -67,7 +65,7 @@
 <!-- Tech Arsenal Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Tech Arsenal
+  Tech Stack
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
 
