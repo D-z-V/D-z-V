@@ -96,8 +96,6 @@
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="64" height="64" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=materialui" width="64" height="64" alt="MUI" />
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=jquery" width="64" height="64" alt="jQuery" />
 </div>
 
@@ -171,7 +169,7 @@
 </div>
 
 
-### AI & Innovation
+### ML
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="64" height="64" alt="TensorFlow" />
