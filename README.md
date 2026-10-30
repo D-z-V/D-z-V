@@ -4,16 +4,16 @@ Founding engineer at [Sidecar](https://usesidecar.com) in Bengaluru.
 
 Before Sidecar I was a product engineer at [Metaforms](https://metaforms.ai), where I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
-<samp>[shiplog](https://d-z-v.github.io/shiplog/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/) · [oppia](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3AD-z-V+is%3Amerged)</samp>
+<samp>[shiplog](https://d-z-v.github.io/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/) · [oppia](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3AD-z-V+is%3Amerged)</samp>
 
 #### Selected work
 
-- **[docx-studio](https://d-z-v.github.io/shiplog/#e20)**: an agent that edits Word but can only propose tracked changes, verified on the saved file.
-- **[Editing a Word document is not editing text](https://d-z-v.github.io/shiplog/#e18)**: a paper on agentic tracked-change editing of `.docx`.
-- **[A spreadsheet everyone edits at once](https://d-z-v.github.io/shiplog/#e15)**: every sheet mutation becomes a CRDT op, replayed on every peer.
-- **[A questionnaire, designed in parallel](https://d-z-v.github.io/shiplog/#e22)**: parallel workers took a build from minutes to well under one.
-- **[Sidecar on a phone](https://d-z-v.github.io/shiplog/#e26)**: the whole dashboard as a touch app, with desktop left byte-identical.
-- **[Docs that write themselves](https://d-z-v.github.io/shiplog/#e23)**: a help center where publishing a change writes its own release note.
+- **[docx-studio](https://d-z-v.github.io/#e20)**: an agent that edits Word but can only propose tracked changes, verified on the saved file.
+- **[Editing a Word document is not editing text](https://d-z-v.github.io/#e18)**: a paper on agentic tracked-change editing of `.docx`.
+- **[A spreadsheet everyone edits at once](https://d-z-v.github.io/#e15)**: every sheet mutation becomes a CRDT op, replayed on every peer.
+- **[A questionnaire, designed in parallel](https://d-z-v.github.io/#e22)**: parallel workers took a build from minutes to well under one.
+- **[Sidecar on a phone](https://d-z-v.github.io/#e26)**: the whole dashboard as a touch app, with desktop left byte-identical.
+- **[Docs that write themselves](https://d-z-v.github.io/#e23)**: a help center where publishing a change writes its own release note.
 - **[llm-chess](https://github.com/D-z-V/llm-chess)**: two language models play chess through a legal-move grammar. [Play it](https://llm-chess-olive.vercel.app/).
 - **[IRCTC captcha solver](https://github.com/D-z-V/IRCTC-nlpCaptcha-Solver)**: a Keras model in TensorFlow.js, shipped as a Chrome extension.
 
@@ -35,4 +35,4 @@ Six merged pull requests to [Oppia](https://github.com/oppia/oppia), January to 
 
 &nbsp;
 
-<sub>Four years of shipping, one entry at a time, on the [shiplog](https://d-z-v.github.io/shiplog/).</sub>
+<sub>Four years of shipping, one entry at a time, on the [shiplog](https://d-z-v.github.io/).</sub>
