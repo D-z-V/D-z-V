@@ -1,245 +1,38 @@
-<!-- Elegant Stats Section -->
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/500+-Commits-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Commits" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/1+-Years%20Experience-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Experience" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/15+-Technologies-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Technologies" />
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/∞-Learning-ffffff?style=for-the-badge&labelColor=00F7PP&color=0d1117" height="30" alt="Learning" />
-  </p>
-</div>
+### Dev
 
-<!-- Social Links with Hover Effects -->
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/dev-bhandari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/D-z-V" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://portfolio-sooty-sigma-29.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-(WIP)-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1mLcnRBodgZOeDzLrcRs7yQ0NrwVzCQgs/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
-  <a href="mailto:dev.bhandari@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+Founding engineer at [Sidecar](https://usesidecar.com) in Bengaluru. They/them.
 
-<br>
+Before Sidecar I was a product engineer at [Metaforms](https://metaforms.ai), where I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
-<!-- Animated About Section -->
-<div align="center">
-  <br>
-  <img src="./assets/mario-the-coder.gif" width="100%" alt="Coding animation">
-  <br>
-</div>
+<samp>[shiplog](https://d-z-v.github.io/shiplog/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/) · [oppia](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3AD-z-V+is%3Amerged)</samp>
 
+#### Selected work
 
+- **[docx-studio](https://d-z-v.github.io/shiplog/#e20)**: an agent that edits Word but can only propose tracked changes, verified on the saved file.
+- **[Editing a Word document is not editing text](https://d-z-v.github.io/shiplog/#e18)**: a paper on agentic tracked-change editing of `.docx`.
+- **[A spreadsheet everyone edits at once](https://d-z-v.github.io/shiplog/#e15)**: every sheet mutation becomes a CRDT op, replayed on every peer.
+- **[A questionnaire, designed in parallel](https://d-z-v.github.io/shiplog/#e22)**: parallel workers took a build from minutes to well under one.
+- **[Sidecar on a phone](https://d-z-v.github.io/shiplog/#e26)**: the whole dashboard as a touch app, with desktop left byte-identical.
+- **[Docs that write themselves](https://d-z-v.github.io/shiplog/#e23)**: a help center where publishing a change writes its own release note.
+- **[llm-chess](https://github.com/D-z-V/llm-chess)**: two language models play chess through a legal-move grammar. [Play it](https://llm-chess-olive.vercel.app/).
+- **[IRCTC captcha solver](https://github.com/D-z-V/IRCTC-nlpCaptcha-Solver)**: a Keras model in TensorFlow.js, shipped as a Chrome extension.
 
+#### Open source
 
-<br>
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"> 
-  &nbsp;About Me&nbsp;
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center">
-</h2>
+Six merged pull requests to [Oppia](https://github.com/oppia/oppia), January to April 2025:
 
-  
-<br>
+- [A new carousel for the donate page](https://github.com/oppia/oppia/pull/21560)
+- [Tab order after the audio bar expands](https://github.com/oppia/oppia/pull/21847)
+- [An unhandled promise error on signup](https://github.com/oppia/oppia/pull/21996)
+- [The space after punctuation in the editor](https://github.com/oppia/oppia/pull/22114)
+- [Image uploader modal flakes](https://github.com/oppia/oppia/pull/22264)
+- [Acceptance tests for the question-submitter journey](https://github.com/oppia/oppia/pull/22316)
 
-<div align="left">
+#### Hackathons
 
-<img src="https://komarev.com/ghpvc/?username=D-z-V&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+- **[Social CBT](https://github.com/D-z-V/TRINIT_Cyberpunk_DEV3)**, TRI-NIT 2024: a scanned question paper in, a timed JEE-style exam out.
+- **[energy-feed](https://github.com/D-z-V/energy-feed)**, 2023: a news feed for the energy sector, summaries generated once and stored.
 
-🚀 **Software Engineer** at <a href="https://metaforms.ai" target="_blank"><strong>metaforms</strong></a> building **real-time, scalable systems**
+&nbsp;
 
-🔥 Passionate about **low-latency**, **event-driven architectures**, and **distributed systems**
-
-💡 Worked with **gRPC**, **Protocol Buffers**, and **microservices communication**
-
-🛠️ Creating **MCP servers** and integrating **AI-powered solutions**
-
-📊 Turning **data into insights** with **real-time analytics**
-
-</div>
-</div>
-
-<br clear="both">
-
-<!-- Tech Arsenal Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  Tech Stack
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-
-<div align="center">
-  
-### Core Languages
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="64" height="64" />
-</div>
-
-### Frontend Libraries & Frameworks
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue" width="64" height="64" alt="Vue" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" width="64" height="64" alt="Angular" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="React" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" width="64" height="64" alt="jQuery" />
-</div>
-
-### Backend Powerhouse
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" width="64" height="64" alt="Flask" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="64" height="64" alt="FastAPI" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="64" height="64" alt="Spring" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="64" height="64" alt="Node.js" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="64" height="64" alt="Express" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Django" width="64" height="64" />
-</div>
-
-### Real-Time & Communication
-
-<p align="center">
-  <img src="https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="gRPC" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="Protocol Buffers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&&logo=socket.io&logoColor=white&labelColor=0d1117" alt="WebSockets" />
-  &nbsp;
-    <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-    &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-</p>
-
-### Data & Infrastructure
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" width="64" height="64" alt="PostgreSQL" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64" alt="MongoDB" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" width="64" height="64" alt="Redis" />
-  &nbsp;&nbsp;
-</div>
-<br>
-<div align="center">
-</div>
-
-### DevOps & Cloud
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  alt="GitHub" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"  alt="AWS" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"  alt="GCP" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white"  alt="Azure" />
-</div>
-<br>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="64" height="64" />
-  &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="64" height="64" />
-</div>
-
-
-### ML
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="64" height="64" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="64" height="64" alt="PyTorch" />
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI_Integration-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-</div>
-
-<br>
-
-<!-- GitHub Stats with Premium Theme -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-  GitHub Analytics
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-</h2>
-
-<!-- Stats Cards in Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img width="400" src="https://github-readme-stats.vercel.app/api?username=D-z-V&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Dev's github stats" /></td>
-      <td><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-z-V&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&hide=jupyter%20notebook" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-z-V&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="streak stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<!-- Snake Animation -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px">
-  Contribution Snake
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25px">
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./outputs/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./outputs/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="./outputs/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-z-V&bg_color=0d1117&color=00F7FF&line=00F7FF&point=fff&area=true&hide_border=true" width="95%" alt="activity graph">
-</div>
-
-<br>
-
-
-<!-- Footer with Wave -->
-<div align="center">
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,14,17,20,24&height=100&section=footer&animation=twinkling" />
-</div>
-
-<!-- Hidden Metrics -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<sub>Four years of shipping, one entry at a time, on the [shiplog](https://d-z-v.github.io/shiplog/).</sub>
