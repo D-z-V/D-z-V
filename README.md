@@ -1,6 +1,6 @@
 ### Dev
 
-Founding engineer at [Sidecar](https://usesidecar.com) in Bengaluru. They/them.
+Founding engineer at [Sidecar](https://usesidecar.com) in Bengaluru.
 
 Before Sidecar I was a product engineer at [Metaforms](https://metaforms.ai), where I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
