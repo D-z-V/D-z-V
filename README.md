@@ -2,7 +2,7 @@
 
 Before [Sidecar](https://usesidecar.com), at [Metaforms](https://metaforms.ai), I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
-<samp>[shiplog](https://d-z-v.github.io/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/) · [oppia prs](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3AD-z-V+is%3Amerged)</samp>
+<samp>[shiplog](https://d-z-v.github.io/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/)</samp>
 
 ### Selected work
 
