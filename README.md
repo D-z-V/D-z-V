@@ -1,8 +1,8 @@
-<a href="https://d-z-v.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-3.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-light-3.svg"><img alt="Founding engineer at Sidecar. Before that, product engineer at Metaforms. 4,756 contributions since 2022." src="./assets/header-light-3.svg" width="100%"></picture></a>
+<a href="https://d-z-v.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-4.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-light-4.svg"><img alt="Founding engineer at Sidecar. Before that, product engineer at Metaforms. 4,756 contributions since 2022." src="./assets/header-light-4.svg" width="100%"></picture></a>
 
 Before [Sidecar](https://usesidecar.com), at [Metaforms](https://metaforms.ai), I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
-<samp>[shiplog](https://d-z-v.github.io/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/)</samp>
+<samp>[website](https://d-z-v.github.io/) · [linkedin](https://www.linkedin.com/in/dev-bhandari/)</samp>
 
 ### Selected work
 
@@ -80,4 +80,3 @@ A news feed for the energy sector, with summaries generated once and stored.
 
 <br>
 
-<p align="center"><sub>Four years of shipping, one entry at a time, on the <a href="https://d-z-v.github.io/">shiplog</a>.</sub></p>
