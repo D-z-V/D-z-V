@@ -1,4 +1,4 @@
-<a href="https://d-z-v.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"><img alt="Founding engineer at Sidecar, Bengaluru. 4,756 contributions since 2022." src="./assets/header-light.svg" width="100%"></picture></a>
+<h3 align="center">Founding engineer at <a href="https://usesidecar.com">Sidecar</a> · Bengaluru</h3>
 
 Before [Sidecar](https://usesidecar.com), at [Metaforms](https://metaforms.ai), I owned survey programming, collaborative editing and agentic document tooling for a market-research platform. Most of what I build sits where people and agents work on the same thing at once: live documents, shared spreadsheets, and agents that propose changes for a person to accept.
 
